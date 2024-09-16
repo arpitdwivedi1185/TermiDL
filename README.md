@@ -41,6 +41,11 @@ When you run TermiDL, you will be prompted to select a download mode from the fo
 4. **Download Video/Playlist:** Enter a YouTube video or playlist URL to download the content.
 
 ### Example Usage
+First move to `src` folder by
+```bash
+cd src
+```
+Then follow the steps as follows:
 - **Downloading a torrent:**
     ```bash
     python3 main.py
